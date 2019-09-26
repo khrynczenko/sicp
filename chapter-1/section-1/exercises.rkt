@@ -111,4 +111,4 @@
   (< (abs (- current_guess last_guess)) (* 0.000001 last_guess)))
 
 (define (curt x) ( sqrt-iter3 1 x))
-(curt 9)
+;;(curt 9)
